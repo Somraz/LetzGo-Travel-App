@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister;
+package com.androidtutorialshub.letzgoapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
